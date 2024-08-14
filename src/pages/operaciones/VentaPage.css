@@ -1,0 +1,31 @@
+/* VentaPage.css */
+.venta-container {
+    margin-top: 20px;
+}
+
+.custom-card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.custom-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.custom-text {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.custom-button {
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+Button{
+    color: white;
+}
